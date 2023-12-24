@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/your_color_primary</item>
+        <item name="colorPrimaryDark">@color/your_color_primary_dark</item>
+        <item name="colorAccent">@color/your_color_accent</item>
+        <item name="android:windowBackground">@drawable/background_image</item>
+    </style>
+</resources>
